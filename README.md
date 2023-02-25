@@ -38,4 +38,4 @@ Article & Blogs :
 
 <a href="mailto:sehgalrkss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amit.naik8103@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/mohit-sehgal-03b63b38/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Amitpnk?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=amitpnk" alt="amitpnk" /> </a>
+<a href="https://github.com/mohitsehgal12?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=amitpnk" alt="amitpnk" /> </a>
