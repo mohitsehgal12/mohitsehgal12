@@ -1,6 +1,6 @@
 # Hi, I'm Mohit Sehgal 👋🏾 👩🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
 
-I am a Technology-driven Professional with more than 4 Years of experience in Software Development, Software Quality Assurance (QA), DevOps, Automation & Project Management.
+I am a Technology-driven Professional with more than 5 Years of experience in Software Development, Software Quality Assurance (QA), DevOps, Automation & Project Management.
 
 🌱 A passionate Software Developer and Quality Assurance Engineer with good experience in Web and Product development activities involving Requirement analysis, Design, Coding, Testing & Maintenance of software applications in an Agile environment involving practices such as TDD, BDD, SOLID, XP, SCRUM with a particular affinity towards Algorithm optimization, Quality, Velocity & Innovation
 
